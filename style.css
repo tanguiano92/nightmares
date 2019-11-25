@@ -1,0 +1,9 @@
+a {
+  color: #590303;
+  text-decoration: line-through;
+  font-size: 20px;
+  font-style: oblique;
+}
+a:hover {
+  color: red;
+}
